@@ -1,0 +1,158 @@
+{
+    "name": "Subha Bal Pal",
+    "contact": {
+      "phone": "+91-8981718313",
+      "email": "sr6265@srmist.edu.in",
+      "address": {
+        "current": "Adhiyamaan 123, SRMIST Hostels, SRM Nagar, Katthankulanthur Chennai, Potheri, Tamil Nadu, India - 603203",
+        "permanent": "Flat No. 303, Block-B Shyamkunj Apartment, 63 T.C Mukherjee Street Rishra, Hooghly, West Bengal, India - 712248"
+      },
+      "linkedin": "https://www.linkedin.com/in/subha-bal-pal-3b4643226/",
+      "github": "https://github.com/mohit2pal"
+    },
+    "education": [
+      {
+        "institution": "SRM Institute of Science & Technology, Kattankulathur",
+        "degree": "B.Tech. - Computer Science & Engineering",
+        "years": "2021 - 2025",
+        "cgpa": "9.33 / 10"
+      },
+      {
+        "institution": "Holy Home, Sreerampore",
+        "degree": "12th | CISCE",
+        "year": "2019",
+        "percentage": "80 / 100"
+      },
+      {
+        "institution": "Gospel Home School, Rishra",
+        "degree": "10th | CISCE",
+        "year": "2017",
+        "percentage": "88 / 100"
+      }
+    ],
+    "internships": [
+      {
+        "company": "Infosys",
+        "position": "iOS Software Developer",
+        "duration": "14 Apr, 2024 - 10 May, 2024",
+        "key_skills": ["Jira", "Swift", "Scrum", "Agile", "Firebase", "iOS", "Teamwork", "Public Speaking"],
+        "responsibilities": [
+          "Overseeing a dedicated team focused on the development of a Hotel Management System project.",
+          "Coordinating closely with stakeholders, prioritizing tasks, and proactively addressing risks.",
+          "Regular client communication and feedback integration.",
+          "Mentoring team members in Agile practices and utilizing tools like JIRA for project management."
+        ]
+      },
+      {
+        "company": "Samsung Research Bangalore (SRI-B)",
+        "position": "Research Intern",
+        "duration": "15 May, 2023 - 24 Feb, 2024",
+        "key_skills": ["Machine Learning", "Cyber Security", "SQL Injection", "NLTK"],
+        "responsibilities": [
+          "Spearheading the development of a solution aimed at testing API vulnerabilities using machine learning.",
+          "Acting as the point of contact and facilitating the production of a machine learning model for identifying SQL and XSS vulnerabilities.",
+          "Collaborating with interdisciplinary teams to integrate machine learning solutions into existing frameworks."
+        ],
+        "tech_stack": ["Python", "Pytorch", "Flask", "SQLMap"]
+      }
+    ],
+    "projects": [
+      {
+        "name": "YourCare",
+        "duration": "20 Apr, 2024 - 15 May, 2024",
+        "team_size": 8,
+        "key_skills": ["Firebase", "Swift", "Figma"],
+        "link": "https://github.com/mohit2pal/Team-7-HMS",
+        "description": "Developed the app's frontend and backend using Firebase, set up an SMTP server for customized email functionality. The app digitizes hospital processes, enabling patients to book appointments and assisting administrators in managing hospital resources."
+      },
+      {
+        "name": "Swift-Box",
+        "duration": "01 Sep, 2023 - 30 Apr, 2024",
+        "team_size": 3,
+        "key_skills": ["Swift", "iOS", "AI", "Google API"],
+        "link": "https://drive.google.com/file/d/1jR5s7r_o2gCc5a1SQFZCdEfOIhpyODXX/view?usp=sharing",
+        "description": "Conceptualized and developed an iOS app to enhance email productivity using advanced AI algorithms for natural language processing and contextual analysis."
+      },
+      {
+        "name": "Secure KYC",
+        "duration": "10 Mar, 2024 - 12 Mar, 2024",
+        "team_size": 6,
+        "key_skills": ["AWS", "Face Recognition", "Google Cloud Platform", "Google API", "S3", "Flask", "Computer Vision", "Pillow"],
+        "link": "https://github.com/mohit2pal/Secure-KYC",
+        "description": "Developed an online video KYC platform using Flask, Google Vision, AWS S3, AWS Rekognition, and Pillow for live photograph capture, Aadhaar verification, and signature capture."
+      }
+    ],
+    "achievements": [
+      "2nd Runner Up in IOT Expo",
+      "Currently working with iOS Development Centre in collaboration with Apple to launch our app in App Store"
+    ],
+    "certifications": [
+      {
+        "name": "Oracle Certified Foundations Associate (Industry Certification)",
+        "date": "24 Jun, 2026",
+        "key_skills": ["Oracle", "Oracle Database"]
+      },
+      {
+        "name": "Python for Data Science",
+        "date": "31 Jul, 2025",
+        "aggregate": "77 / 100",
+        "key_skills": ["Data Science", "Python", "Analytics", "Pandas", "Matplotlib", "Scikit-Learn"]
+      },
+      {
+        "name": "Compiler Design",
+        "date": "31 Jul, 2025",
+        "aggregate": "67 / 100",
+        "key_skills": ["Compilers", "Regular Expressions", "Theory of Computation"]
+      },
+      {
+        "name": "Design and Analysis of Algorithms",
+        "date": "31 Jul, 2025",
+        "aggregate": "67 / 100",
+        "key_skills": ["Algorithms", "Trees", "Graphs", "Dynamic Programming"]
+      },
+      {
+        "name": "Introduction to Internet of Things",
+        "date": "31 Jul, 2025",
+        "aggregate": "75 / 100",
+        "key_skills": ["Internet of Things", "Arduino", "Raspberry Pi", "Networking", "Sensors", "Actuators", "Cloud Computing"]
+      },
+      {
+        "name": "Programming, Data Structures and Algorithms Using Python",
+        "date": "31 Jul, 2025",
+        "aggregate": "78 / 100",
+        "key_skills": ["Python", "Data Structures", "Algorithms"]
+      },
+      {
+        "name": "Introduction to Machine Learning",
+        "date": "30 Jun, 2025",
+        "aggregate": "99 / 100",
+        "key_skills": ["Machine Learning", "Transformers"]
+      },
+      {
+        "name": "Arduino Certification in Electronics and Physical Computing (Industry Certification)",
+        "date": "24 Jun, 2025",
+        "aggregate": "94 / 100",
+        "key_skills": ["Arduino", "Arduino UNO", "Embedded C", "Electronics"]
+      }
+    ],
+    "seminars_trainings_workshops": [
+      {
+        "name": "iOS Development Training",
+        "institute": "SRM Institute of Science & Technology, Kattankulathur",
+        "duration": "16 Aug, 2023 - 14 Apr, 2024",
+        "key_skills": ["Design Thinking", "iOS", "Mobile Application Development", "Databases", "Presentation Skills"]
+      }
+    ],
+    "extra_curricular_activities": [
+      "Practicing Data Structures",
+      "NSS"
+    ],
+    "personal_details": {
+      "gender": "Male",
+      "date_of_birth": "03 Jul, 2001",
+      "languages": ["English", "Hindi", "Bengali"],
+      "phone_numbers": ["+91-8981718313", "+91-8274040263"],
+      "emails": ["sr6265@srmist.edu.in", "mohit2pal@gmail.com"]
+    }
+  }
+  
